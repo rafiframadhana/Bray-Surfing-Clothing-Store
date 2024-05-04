@@ -1,0 +1,16 @@
+Product 1- Short Shirt Jazlyn Black - 9.99
+Product 2- Short Shirt Nessie Dark Green - 9.99
+Product 3- Coach Jacket Steffi Knight Black - 14.99
+Product 4- Hoodie Moku Navy - 15.99
+Product 5- Hoodie Kagoshima Dark Oak - 15.99
+Product 6- Chore Jacket Vulka Navy - 17.99
+Product 7- T-Shirt Oversize NASCAR Ashpalt Slayer Black - 9.99
+Product 8- T-Shirt Oversize Japan Katsumi Dark Blue - 9.99
+Product 9- T-Shirt Mickey Land Navy - 9.99
+Product 10- T-Shirt Stripe Yoon Navy Cream - 9.99 
+Product 11- Chino Pants Sirius Black - 14.99
+Product 12- Chino Pants Jacob Dark Grey - 14.99
+Product 13- Chino Pants James Army - 14.99
+Product 14- Jogger Pants Morton Army - 15.99
+Product 15- Jogger Pants Saanvi Grey - 15.99
+Product 16- Jogger Pants Alexi Navy - 15.99

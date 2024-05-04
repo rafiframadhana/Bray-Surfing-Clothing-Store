@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Payments | Bray Surfing</title>
+        <link rel="stylesheet" href="../src/css/main.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="icon" type="image/svg+xml" href="../images/header/favicon.svg">
+    </head>
+    <body>
+        <style>
+            body {
+                background-image : url("../images/header/headerprod.jpg");
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+            </style>
+        <img src="../images/header/headerprod.jpg" style="display: none;">
+        <div class="header">
+            <div class="container">
+                <div class="navbar">
+                    <div class="logo">
+                        <a href="../index.html"><img src="../images/header/complogo.png" alt="comp" width="225px"></a>
+                    </div>
+                    <nav>
+                        <ul class="nav-menu">
+                            <li class="nav-item"><a href="../index.html">Home</a></li>
+                            <li class="nav-item"><a href="../products.html">Products</a></li>
+                            <li class="nav-item"><a href="#footer">Contact Us</a></li>
+                            <li class="nav-item"><a href="../account.html">Account</a></li>
+                        </ul>
+                    </nav>
+                    <a href="../cart.html"><img class="cart" src="../images/header/cart.svg"></a>
+                    <div class="toggle"><i class="fa fa-bars"></i></div>
+                </div>
+            </div>
+        </div>
+        <div class="wrapper">
+            <div class="payment">
+                <h3 class="payment-mode">Payment Mode Accepted:</h3>
+                <div class="payment-logo">
+                    <p><img src="../images/logos/payment.png" alt="comp" width="300px"></p>
+                </div>
+                <h2><br><br>Payment Gateway</h2>
+                <div class="form">
+                    <div class="card space icon-relative">
+                        <label class="label">Card holder:</label>
+                        <label>
+                            <input type="text" class="input" placeholder="Card holder's Name">
+                        </label>
+                        <i class="fas fa-user"></i></div>
+                    <div class="card space icon-relative">
+                        <label class="label">Card number:</label>
+                        <label>
+                            <input type="text" class="input" data-mask="0000 0000 0000 0000" placeholder="Card Number">
+                        </label>
+                        <i class="far fa-credit-card"></i></div>
+                    <div class="card-grp space">
+                        <div class="card-item icon-relative">
+                            <label class="label">Expiry date:</label>
+                            <label>
+                                <input type="text" name="expiry-data" class="input" data-mask="00 / 00" placeholder="00 / 00">
+                            </label>
+                            <i class="far fa-calendar-alt"></i></div>
+                        <div class="card-item icon-relative">
+                            <label class="label">CVC/CVV:</label>
+                            <label>
+                                <input type="text" class="input" data-mask="000" placeholder="000">
+                            </label>
+                            <i class="fas fa-lock"></i></div>
+                    </div>
+                    <a href="../page_not_available.html" class="payment-btn btn">Pay</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer" id="footer">
+            <div class="container">
+                <div class="child">
+                    <div class="footerChild1">
+                        <img src="../images/header/complogo.png">
+                        <h4>Mail us at: <a href="mailto:braysurfingstore@gmail.com">braysurfingstore@gmail.com</a></h4>
+                    </div>
+                    <div class="footerChild2">
+                        <h3>Help</h3>
+                        <ul>
+                            <li><a href="payment.html">Payments</a></li>
+                            <li><a href="shipping.html">Shipping</a></li>
+                            <li><a href="return_policy.html">Return Policy</a></li>
+                            <li><a href="FAQ.html">FAQ</a></li>
+                        </ul>
+                    </div>
+                    <div class="footerChild2">
+                        <h3>Our Socials</h3>
+                        <ul>
+                            <li><a href="https://www.instagram.com/bray.surfing/" target="_blank">Instagram</a></li>
+                            <li><a href="../page_not_available.html">Facebook</a></li>
+                            <li><a href="../page_not_available.html">Twitter</a></li>
+                            <li><a href="https://api.whatsapp.com/send/?phone=%2B6282369889630&text&type=phone_number&app_absent=0" target="_blank">WhatsApp</a></li>
+                        </ul>
+                    </div>
+                    <div class="footerChild2">
+                        <h3>Store Address</h3>
+                        <ul>
+                            <li><a href="https://maps.app.goo.gl/xQMKPfUGsuNvrKFN9" target="_blank">Lamteh, Ulee Kareng,<br>Banda Aceh City,<br>Indonesia.<br>23117</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="belowfooter">
+                    &copy; Bray Surfing Associates, 2024 <br>
+                    Rafif Ramadhana, All rights reserved.
+                </div>
+            </div>
+        </div>
+        <script src="../src/js/script.js"></script>
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+    </body>
+</html>
