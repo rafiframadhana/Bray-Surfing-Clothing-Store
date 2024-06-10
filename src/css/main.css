@@ -485,6 +485,7 @@ select, input {
 .faq-container {
     text-align: center;
     padding-top: 50px;
+    background-color: rgba(0,0,0,0.5);
 }
 
 .faq-item {
@@ -498,6 +499,7 @@ select, input {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 30px;
+    background-color: rgba(0,0,0,0.5);
 }
 
 .rp-item {
