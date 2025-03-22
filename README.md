@@ -42,3 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For inquiries, please contact [rafiframadhana.cs@gmail.com](mailto:rafiframadhana.cs@gmail.com).
+
+## Note
+New Version of this website available here **[https://github.com/rafiframadhana/clothing-store-react](https://github.com/rafiframadhana/clothing-store-react)**
